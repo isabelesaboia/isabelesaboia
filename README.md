@@ -4,3 +4,5 @@ Hi! I´m Isabele Saboia and here are some facts about me.
 - I am a computer tecnician;
 - I use GitHub a lot in the FUP class with teacher Lana;
 - I love the design and marketing field, and that´s why I´m in it. 
+- Important Links:
+ www.linkedin.com/in/isabele-saboia-5413582b2
